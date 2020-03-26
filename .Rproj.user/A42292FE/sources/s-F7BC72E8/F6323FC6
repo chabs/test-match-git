@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585218119548.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1219222724",
+    "id" : "F6323FC6",
+    "lastKnownWriteTime" : 1585218140,
+    "last_content_update" : 1585218140395,
+    "path" : "~/test-match-git/test.R",
+    "project_path" : "test.R",
+    "properties" : {
+        "cursorPosition" : "0,13",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
